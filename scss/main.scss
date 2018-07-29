@@ -1,5 +1,10 @@
 @import "config";
 @import "menu";
+@import "mobile";
+
+html {
+  font-size: 10px;
+}
 
 * {
   // This is important btw
